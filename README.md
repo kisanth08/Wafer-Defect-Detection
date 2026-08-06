@@ -1,1 +1,0 @@
-# Wafer-Defect-Detection
